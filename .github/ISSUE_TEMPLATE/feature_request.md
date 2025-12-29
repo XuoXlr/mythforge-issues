@@ -1,11 +1,3 @@
----
-name: Feature request
-about: Suggest an idea for this project
-title: ''
-labels: ''
-assignees: ''
-
----
 
 **Is your feature request related to a mod or addition? Please describe.**
 A clear and concise description of what the suggestion is. Ex. I think this mod would improve [...]
